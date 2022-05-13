@@ -1,0 +1,9 @@
+{
+  "region": "",
+  "catchall": "",
+  "imap": {
+    "imap-server": "imap.gmail.com",
+    "imap-email": "",
+    "imap-password": ""
+  }
+}
