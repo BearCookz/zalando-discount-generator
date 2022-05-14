@@ -1,8 +1,10 @@
+# Zalando Discount Generator
+
 A discount generator for zalando, automatically generating 10% off discounts by signing up for the newsletter. I added automatic discount fetch from email to automate the whole process.
 
 If you want to you can easily use proxies by pasting them into the 'proxies.txt' file but if you don't it will still work completely fine.
 
-**Config.json**
+## Config.json
     Region:
 This is the region you want your discounts to be generated in, you would for example put fr for france or it for italy etc.
     Catchall:
